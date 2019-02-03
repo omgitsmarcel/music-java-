@@ -1,0 +1,6 @@
+owner=354283625824387073
+prefix= M
+game= Vampire In The Top.
+stayinchannel=true
+songinstatus=false
+token=NTQxNTU2MjgyNTExODUxNTMw.DzhNWA.5Ww15xghn5JVw54QGnK1eAIAhC0
